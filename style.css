@@ -1,0 +1,100 @@
+body {
+  background-color:white;
+  color: black;
+  height: 100vh;
+  
+}
+
+small {
+  color: rgba(128, 128, 128, 0.719);
+  font-size: 30px;
+  
+  
+}
+h3  {
+  color: rgba(128, 128, 128, 0.589);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align:justify;
+  
+}
+h4 {
+  color:gray;
+  
+  text-align: justify;
+  
+  
+}
+
+h2 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+ 
+  
+
+}
+h1 {
+  text-align: justify;
+  
+  
+  
+}
+button {
+  background-color: rgb(22, 71, 22);
+  color: white;
+  margin-left: 46px; 
+  width: 27%;
+  height: 55px;
+  border-radius: 10px;
+  border:none;
+  position: absolute; top:90%; left:36.9%
+
+  
+}
+button:hover {
+  background-color:rgb(60, 145, 60)
+  
+  
+}
+
+
+.perfume {
+  text-align:justify;
+  border:none;
+  position: relative;
+  position: absolute;
+  transform: translate(-180%, -300%); 
+  top: 39%;
+  left: 62.3%;
+  font-size: 33px;
+  font-style:inherit;
+}
+.nomedoperfume {
+  text-align:justify;
+  border:none;
+  position: relative;
+  position: absolute;
+  transform: translate(-70%, -250%); 
+  top: 110%;
+  left: 57%;
+  font-size: 40px;
+}
+.descricaoperfume {
+  border:none;
+  position: relative;
+  position: absolute;
+  transform: translate(-60%, -300%); 
+  top: 122%;
+  left: 56.5%;
+  font-size: 35px ;
+}
+.precodoperfume {
+  border:none;
+  position: relative;
+  position: absolute;
+  transform: translate(-60%, -300%); 
+  top: 127%;
+  left: 53%;
+  font-size: 40px ;
+}
+
+
